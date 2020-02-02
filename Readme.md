@@ -1,9 +1,3 @@
-<style>
-img {
-  width: 40%;
-}
-</style>
-
 # 第0回CREATE合宿！！
 ## 開催目的
 - プログラミングスキルを向上させる
@@ -54,7 +48,7 @@ img {
 池袋→西武秩父駅（約60分）片道1100円
 
 ## 宿泊予定地
-![](./img/1.jpg):
-![](./img/2.jpg):
-![](./img/3.jpg):
-![](./img/4.jpg):
+<img src="./img/1.jpg" width="40%">
+<img src="./img/2.jpg" width="40%">
+<img src="./img/3.jpg" width="40%">
+<img src="./img/4.jpg" width="40%">
