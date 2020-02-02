@@ -48,7 +48,7 @@
 池袋→西武秩父駅（約60分）片道1100円
 
 ## 宿泊予定地
-<img src="./img/1.jpg" width="40%">
-<img src="./img/2.jpg" width="40%">
-<img src="./img/3.jpg" width="40%">
-<img src="./img/4.jpg" width="40%">
+<img src="./img/1.jpg" width="100%">
+<img src="./img/2.jpg" width="100%">
+<img src="./img/3.jpg" width="100%">
+<img src="./img/4.jpg" width="100%">
